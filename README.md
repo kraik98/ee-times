@@ -1,3 +1,5 @@
+Original repo belongs to vervestacks_models:  https://github.com/akanudia/vervestacks_models/tree/main?tab=readme-ov-file
+
 # VerveStacks Model Generation Notes - EST
 **Generated:** 2025-09-25 16:48:34
 
