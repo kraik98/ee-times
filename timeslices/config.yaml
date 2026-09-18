@@ -1,0 +1,15 @@
+input:
+  file: data/EE_2025-01-01_2026-01-01_EE_bundle.xlsx
+  sheet_name: data
+  timestamp_col: ts
+  value_col: Actual Load
+
+timeslices:
+  n_seasons: 4
+  n_daynite: 6
+  weekly_labels:
+  year_hours: 8760
+
+output:
+  file: data/ee_load_ts.xlsx
+  aggregation: sum
